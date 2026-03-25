@@ -1,10 +1,35 @@
 # Dependencies
 node_modules/
+<<<<<<< HEAD
 
 # Environment variables
 .env
 .env.local
 .env.*.local
+=======
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+/build
+/dist
+
+# Misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+>>>>>>> 9e4823e (second commit)
 
 # IDE
 .vscode/
@@ -12,6 +37,7 @@ node_modules/
 *.swp
 *.swo
 *~
+<<<<<<< HEAD
 .DS_Store
 
 # Logs
@@ -26,6 +52,8 @@ build/
 dist/
 .next/
 out/
+=======
+>>>>>>> 9e4823e (second commit)
 
 # Optional npm cache directory
 .npm
@@ -33,6 +61,7 @@ out/
 # Optional eslint cache
 .eslintcache
 
+<<<<<<< HEAD
 # Database files
 *.db
 *.sqlite
@@ -41,3 +70,8 @@ out/
 # OS Files
 Thumbs.db
 .DS_Store
+=======
+# Generated files
+*.dmg
+*.exe
+>>>>>>> 9e4823e (second commit)
