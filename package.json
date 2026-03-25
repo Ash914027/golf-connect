@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 {
   "name": "frontend",
   "version": "0.1.0",
@@ -34,7 +34,7 @@
       "last 1 safari version"
     ]
   }
-=======
+
 {
   "name": "frontend",
   "version": "0.1.0",
@@ -70,5 +70,5 @@
       "last 1 safari version"
     ]
   }
->>>>>>> 9e4823e (second commit)
+
 }
