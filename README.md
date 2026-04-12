@@ -1,6 +1,11 @@
 # GolfConnect
 
 A modern, emotional golf application with authentication, user dashboard, and charity draws.
+<img width="1760" height="916" alt="Screenshot 2026-03-26 005325" src="https://github.com/user-attachments/assets/412d1503-9e17-44c0-9306-9a773db9e2db" />
+<img width="1861" height="906" alt="Screenshot 2026-03-26 005333" src="https://github.com/user-attachments/assets/66380f98-4182-48bd-92be-b205fd7f2b98" />
+<img width="1530" height="934" alt="Screenshot 2026-03-26 005358" src="https://github.com/user-attachments/assets/cc36b5f4-1742-4b9a-bb3a-cfde1e94ed84" />
+<img width="1646" height="848" alt="Screenshot 2026-03-26 005410" src="https://github.com/user-attachments/assets/818a595c-769f-4b54-9e1d-6239c427ee26" />
+
 
 ## Features
 
