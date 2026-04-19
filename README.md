@@ -10,7 +10,7 @@ A modern, emotional golf application with authentication, user dashboard, and ch
 ## Features
 
 - User registration and login with JWT authentication
-- Role-based access control (User/Admin)
+- Role-based access control (User/Admin).
 - Comprehensive user dashboard with:
   - Subscription status and premium upgrade CTA
   - Score entry and performance analytics
